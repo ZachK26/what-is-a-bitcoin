@@ -694,7 +694,7 @@ i {
   color: #9a9a9a;
   display: inline-block;
   vertical-align: top;
-  padding: 10px 5px;
+  padding: 5px 5px;
   font-size: 20px;
   font-weight: normal;
   line-height: 20px;
@@ -706,8 +706,6 @@ i {
 }
 .footer .copyright {
   color: #777777;
-  padding: 10px 15px;
-  margin: 15px 3px;
   line-height: 20px;
   text-align: center;
 }
@@ -716,18 +714,6 @@ i {
 }
 .footer .title {
   color: #777777;
-}
-
-.footer:not(.footer-big) nav > ul {
-  font-size: 16px;
-}
-.footer:not(.footer-big) nav > ul li {
-  margin-left: 20px;
-  float: left;
-}
-.footer:not(.footer-big) nav > ul a {
-  padding: 10px 0px;
-  margin: 15px 10px 15px 0px;
 }
 
 .footer-default {
